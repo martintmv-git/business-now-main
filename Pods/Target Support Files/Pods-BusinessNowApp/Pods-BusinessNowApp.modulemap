@@ -1,0 +1,6 @@
+framework module Pods_BusinessNowApp {
+  umbrella header "Pods-BusinessNowApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
